@@ -1,7 +1,7 @@
 {
   "name": "employee-tracker",
   "version": "1.0.0",
-  "description": "an application to manage a company's employee database",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "jest",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/waveess/employee-tracker/issues"
   },
-  "homepage": "https://github.com/waveess/employee-tracker#readme"
+  "homepage": "https://github.com/waveess/employee-tracker#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  }
 }
