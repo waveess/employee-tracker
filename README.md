@@ -1,7 +1,7 @@
 # employee-tracker
 ## Table of Contents
  
- *[1. Description](#1-installation)
+ * [1. Description](#1-description)
  * [2. Installation](#1-installation)
  * [3. License](#2-license)
  * [4.Questions](#3questions)
