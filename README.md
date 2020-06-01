@@ -23,8 +23,7 @@ Rawan Fatima
 
 ##  5. Questions
 
-If you have any questions, contact me at fatimarawan15@gmail.com or refer to my github repository: https://github.com/waveess/team-profile-generator
-
+If you have any questions, contact me at fatimarawan15@gmail.com or refer to my github repository: https://github.com/waveess/employee-tracker
 
 
 
