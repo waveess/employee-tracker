@@ -22,7 +22,6 @@ MIT
 
 ##  4. Video Walkthrough
 https://drive.google.com/file/d/1JdB2NNjRFI0fLBajmchOgWsnaSy2d3nP/view
-
 ##  5. Contributing
 
 Rawan Fatima
