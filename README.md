@@ -4,7 +4,7 @@
  * [1. Description](#1-description)
  * [2. Installation](#1-installation)
  * [3. License](#2-license)
- * [4.Video Walk Through](#4- walk through)
+ * [4.Video Walk Through](#4-wt)
  * [5. Contributing](#5-contributing)
  * [6. Questions](#6-description)
 
